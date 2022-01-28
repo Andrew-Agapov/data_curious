@@ -1,1 +1,2 @@
-This script connects to API of Liqpay (Privatbank), collects daily currency exchange rates and stores inside a DataFrame for the specified periods. Please note: the script collects weekly data from 2010 to 2022. You can adjust the time period and frequency in line 4 of the code (when specifying dti variable)
+This script connects to API of Liqpay (Privatbank), collects daily currency exchange rates and stores inside a DataFrame for the specified periods. Please note: the script collects weekly data from 2010 to 2022 (will take some time to pull the data, the script will show you which date is being processed now)
+You can adjust the time period and frequency in line 4 of the code (when specifying dti variable)
