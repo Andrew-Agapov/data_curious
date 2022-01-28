@@ -15,6 +15,6 @@ Exploratory analysis of Open Data from Canadian government on Labour force chara
  Exploratory analysis of Short Term rentals licenses registration in Toronto. CSV file downloaded from Toronto Open Data portal https://ckan0.cf.opendata.inter.prod-toronto.ca/download_resource/f4659cc1-8985-4e4a-a702-ae24352271e0?format=csv
  Please put the CSV file into the working directory to launch the script
  
- <h4> <li> Liqpay_API_collect_exchange_rates.py </h4>
+ <h4> <li> API_data_collection_into_df_Python </h4>
  This script connects to API of Liqpay (Privatbank), collects daily currency exchange rates and stores inside a DataFrame for the specified periods.
  Please note: the script collects weekly data from 2010 to 2022. You can adjust the time period and frequency in line 4 of the code (when specifying dti variable)
