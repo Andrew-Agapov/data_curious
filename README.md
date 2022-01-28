@@ -10,7 +10,7 @@ I am a seasoned marketing professional with extensive marketing and analytics ba
 Exploratory analysis of Open Data from Canadian government on Labour force characteristics of immigrants by sex and age group, three-month moving average, unadjusted for seasonality (2006-2021). <br> <br>
 <p> This python script uses numpy, pandas and matplotlib.pylot packages. It also uses file 14100084.csv for analysis. CSV file is also available at https://open.canada.ca/data/en/dataset/ae01fd0c-7f86-4d49-8ea3-84834ccdc3b7
 
- <h4> <li> Toronto_short_term_rentals.py </h4>
+ <h4> <li> Toronto_short_term_rentals </h4>
  
  Exploratory analysis of Short Term rentals licenses registration in Toronto. CSV file downloaded from Toronto Open Data portal https://ckan0.cf.opendata.inter.prod-toronto.ca/download_resource/f4659cc1-8985-4e4a-a702-ae24352271e0?format=csv
  Please put the CSV file into the working directory to launch the script
